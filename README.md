@@ -1,9 +1,9 @@
-# Sorting-Regression
+# PhotoPuzz
 
 
-Technical support for "Sorting Regression"
+Technical support for "PhotoPuzz"
 
-We will provide technical support for this app（Sorting Regression）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: deliaSorting@gmail.com
+We will provide technical support for this app（PhotoPuzz）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: sortPhotoPuzz@gmail.com
 
 Privacy Policy
 
