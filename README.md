@@ -1,9 +1,9 @@
-# PhotoPuzz
+# Crazy Fish
 
 
-Technical support for "PhotoPuzz"
+Technical support for "Crazy Fish"
 
-We will provide technical support for this app（PhotoPuzz）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: sortPhotoPuzz@gmail.com
+We will provide technical support for this app（Crazy Fish）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: KJCrazyFish@gmail.com
 
 Privacy Policy
 
