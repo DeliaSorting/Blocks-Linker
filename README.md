@@ -1,9 +1,9 @@
-# Crazy Fish
+# Digital Combination
 
 
-Technical support for "Crazy Fish"
+Technical support for "Digital Combination"
 
-We will provide technical support for this app（Crazy Fish）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: KJCrazyFish@gmail.com
+We will provide technical support for this app（Digital Combination）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: digitalCombination@gmail.com
 
 Privacy Policy
 
