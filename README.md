@@ -1,9 +1,9 @@
-# Digital Combination
+# Blocks Linker
 
 
-Technical support for "Digital Combination"
+Technical support for "Blocks Linker"
 
-We will provide technical support for this app（Digital Combination）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: digitalCombination@gmail.com
+We will provide technical support for this app（Blocks Linker）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: ktblockslinker@gmail.com
 
 Privacy Policy
 
