@@ -1,9 +1,9 @@
-# Blocks Linker
+# Planet Defencer
 
 
-Technical support for "Blocks Linker"
+Technical support for "Planet Defencer"
 
-We will provide technical support for this app（Blocks Linker）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: ktblockslinker@gmail.com
+We will provide technical support for this app（Planet Defencer）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: deliaplanetdefencer@gmail.com
 
 Privacy Policy
 
