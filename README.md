@@ -1,9 +1,9 @@
-# Planet Defencer
+# Rock Destroyer
 
 
-Technical support for "Planet Defencer"
+Technical support for " Rock Destroyer"
 
-We will provide technical support for this app（Planet Defencer）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: deliaplanetdefencer@gmail.com
+We will provide technical support for this app（Rock Destroyer）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email:  AppRockDestroyer@gmail.com
 
 Privacy Policy
 
